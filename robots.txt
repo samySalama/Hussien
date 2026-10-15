@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://husseinelectricain.vercel.app/sitemap.xml
